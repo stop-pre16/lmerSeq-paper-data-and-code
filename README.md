@@ -1,1 +1,1 @@
-# lmerSeq-paper-data-and-code
+This repo contains the data and code needed to replicate the results in the original lmerSeq paper. Within each folder, there are a set of scripts that need to be run to generate results for each of the methods compared (lmerSeq + VST, DREAM, and rmRNAseq). Subsequently, there is a final results script that generates the tables and figures used in the paper.
